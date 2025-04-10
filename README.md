@@ -43,5 +43,5 @@ Welcome to my GitHub profile! I'm a Native American woman currently diving deep 
 
 ## 📬 Let’s Connect
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/kate-overton-325604b5) or check out my projects here on GitHub!  
+Feel free to connect with me on [LinkedIn](www.linkedin.com) or check out my projects here on GitHub!  
 Let’s grow and build cool stuff together. 🚀
